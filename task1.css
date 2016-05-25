@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bigbox{
+    width:50%;
+    margin: auto;
+    margin-top: 25%;/*大盒子剧中*/
+}
+.av{
+    padding:15%;
+    margin: 1%;
+    background-color: aqua;
+    float: left;
+    border-radius: 30px;/*制作圆角边框*/
+}
