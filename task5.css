@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+body{
+    max-width: 720px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header{
+    font-size: 2.25rem;
+    color: white;
+    background-color:#5fc0cd;
+    text-align: center;
+    padding: 3.2% 0;
+}
+.head-back{
+    float: left;
+}
+.content{
+    font-size: 2rem;
+    background-color: white;
+    list-style: none;
+}
+.a{
+    padding: 5.16% 0 5.16% 0;
+    border-bottom: solid #999999;
+    margin-left: 5.16%;
+}
+.a span{
+    color: #999999;
+}
+.b{
+    padding: 5.16% 0 5.16% 3%;
+    border-bottom: solid #999999;
+}
+.c{
+    padding: 5.16% 0 5.16% 5.16%;
+    border-bottom: solid #999999;
+    color: #999999;
+
+}
+.b span{
+    color: #5fc0cd;
+}
+.c span{
+    font-size: 1.5rem;
+
+    width: 40%;
+    margin-left: 4%;
+    vertical-align: middle;
+    display: inline-block;
+}
+.footer{
+    margin-top: 5rem;
+}
+.button-l{
+     border: 2px #5fc0cd solid;
+     padding: 2% 0;
+     border-radius: 5px;
+     background-color: white;
+     color: #5fc0cd;
+    font-size: 2rem;
+     margin: 4%;
+     width: 40%;
+ }
+.button-r{
+    border: 2px #5fc0cd solid;
+    border-radius: 5px;
+    background-color:#5fc0cd;
+    color: white;
+    font-size: 2rem;
+    margin:4%;
+    padding: 2% 0;
+    width: 40%;
+}
+@media screen and (min-width: 320px) and (max-width:1366px)
+{html {
+    font-size:60%
+}
+}
