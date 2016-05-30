@@ -1,0 +1,135 @@
+body{
+    font-size:62.5%;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.page{
+    margin: 0 auto;
+    max-width: 64rem;
+    width: 100%;
+    background-color: #f0f0f0;
+    height: 105rem;
+}
+.header{
+    text-align: left;
+    background-color: #29bde0;
+    width: 100%;
+}
+.header-1{
+    width: 100%;
+}
+.header-2{
+    /*width: 5.31%;*/
+    padding: 2%;
+    list-style: none;
+    border: none;
+    background-color: #29bde0;
+    margin-top: 4%;
+}
+.content{
+    overflow: hidden;
+    background-color: white;
+    /*position: relative;*/
+}
+.content-1{
+    font-size: 3rem;
+    text-align: center;
+    color: #9a9a9a;
+    background-color: white;
+    margin: 4% 0 4% 5%;
+    width: 88.75%;
+    padding: 6.5% 0;
+    border: solid #cecece;
+
+
+}
+.content-1 button {
+    font-size: 3rem;
+    /*width: 3.5%;*/
+    list-style: none;
+    border: none;
+    background-color: white;
+    font-weight:bold;
+    color: #9a9a9a;
+
+}
+.content-2-1{
+    font-size: 3.774rem;
+    color: #fcc768;
+    border-bottom: solid #fcc768;
+    text-align: center;
+    padding: 4.5% 0;
+    background-color: white;
+}
+.content-2-2{
+    text-align: center;
+    font-size: 2.453rem;
+    color: #898989;
+    overflow: hidden;
+    margin:0 6% 0 6% ;
+}
+.content-2-2-3{
+    text-align: center;
+    font-size: 2.453rem;
+    color: #898989;
+}
+.content-2-2 p{
+    background-color: #69d1e9;
+    font-size: 3.208rem;
+    color: white;
+    padding: 8.14% 0;
+    margin: 3.7% 0;
+
+}
+.content-2-2-1 {
+    background-color: #69d1e9;
+    font-size: 3.208rem;
+    color: white;
+    padding: 8.14% 0;
+    margin: 3.7% 0 3.7% 6%;
+    width:88.75%;
+    float: left;
+
+
+}
+.content-2-2-2{
+    overflow: hidden;
+    text-align: center;
+}
+.center{
+    overflow: hidden;
+
+}
+.next{
+    list-style: none;
+    border: none;
+    background-color: white;
+    float: right;
+    margin-top: 12%;
+    width:4% ;
+
+}
+.footer{
+    text-align: center;
+    padding:1% 0;
+    background-color: white;
+    overflow: hidden;
+}
+.footer img{
+    width: 2.97%;
+}
+.content-b{
+    width: 88.75%;
+    border: solid #cecece;
+    margin: 4% 0 0 0;
+    margin-left: 5%;
+}
+@media screen and (max-width: 578px){
+    html{
+        font-size: 50%;
+    }
+}
+
+
