@@ -1,0 +1,157 @@
+body{
+    font-size:62.5%;
+}
+*{
+    margin:0;
+    padding:0;
+    border: 0;
+}
+.wrap{
+    margin: 0 auto;
+    max-width: 192rem;
+    background-color: #f0f0f0;
+}
+.header-top{
+
+}
+.header-main-3{
+    font-size: 3.558em;
+    padding: 1% 0;
+}
+.nav{
+    overflow: hidden;
+}
+.nav-top{
+    height: 185px;
+    overflow: hidden;
+}
+.nav-top img{
+    width: 100%;
+}
+.nav-main-1{
+    font-size: 1.6em;
+    margin:1.5%  23%;
+}
+.nav-main-1 span{
+    color: #29b078;
+
+}
+.nav-main-left{
+    text-align: center;
+    margin: 0 1.25% 32% 23%;
+    width: 15%;
+    float: left;
+    overflow: hidden;
+
+}
+a{
+    width:198px ;
+    height: 41px;
+    background-image: url("hezuoqiye.png");
+    background-repeat: no-repeat;
+    display: inline;
+    float: left;
+    /*background-color: #29b078;*/
+    overflow: hidden;
+    background-size: 100%;
+
+
+}
+.box1-1{
+    background-position: 0 0;
+    overflow: hidden;
+}
+.box1-2{
+    background-position: 0 -41px;
+}
+.box1-3{
+    background-position: 0 -75px;
+}
+.box1-4{
+    background-position: 0 -108px;
+}
+.box1-5{
+    background-position: 0 -140px;
+}
+.box1-6{
+    background-position: 0 -172px;
+}
+.box1-7{
+    background-position: 0 -204px;
+}
+.box1-8{
+    background-position: 0 -237px;
+}
+.box1-9{
+    background-position: 0 -269px;
+}
+.box1-10{
+    background-position: 0 -301px;
+}
+.box1-11{
+    background-position: 0 -333px;
+}
+.box1-12{
+    background-position: 0 -366px;
+}
+.box1-13{
+    background-position: 0 -397px;
+}
+.nav-main-right{
+    /*margin-right: 23%;*/
+    text-align: center;
+    background-image: url("tudou.png");
+    background-size: 100%;
+    width: 45%;
+    overflow: hidden;
+    float: left;
+    /*background-color: aqua;*/
+    height: 767px;
+}
+.box2{
+    width: 62%;
+    margin:2%  0 0 35%;
+    text-align: left;
+    color: #999999;
+    font-weight: bold;
+    font-family:"Microsoft YaHei UI Light";
+}
+b{
+    width:557px ;
+    height: 108px;
+    background-image: url("tudoujianjie.png");
+    background-repeat: no-repeat;
+    display: inline;
+    float: left;
+    /*background-color:black;*/
+    overflow: hidden;
+    background-size: 100%;
+    margin: 0 4%;
+}
+.box2-1{
+    background-position: 0 40px;
+    margin-top: 6%;
+}
+.box2-2{
+    background-position: 0 -54px;
+}
+.box2-3{
+    background-position: 0 -146px;
+}
+.box2-4{
+    background-position: 0 -252px;
+}
+.box2-5{
+    background-position: 0 -353px;
+}
+.box2-6{
+    background-position: 0 -467px;
+
+}
+.box2-7{
+    background-position: 0 -467px;
+    /*background-color:white;*/
+
+}
+
+

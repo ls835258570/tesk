@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+body{
+    font-size: 62.5%;
+}
+.header-main-3{
+    font-size: 3.558em;
+    padding: 1% 0;
+}
+.nav{
+    background-color: #fafafa;
+    padding-bottom: 8%;
+}
+.nav-top-1{
+    margin:0 7.4% ;
+    font-size: 1.6em;
+    border-bottom: solid #d0d6d9;
+    padding: 2% 0;
+}
+.nav-top-1 span{
+    color: #29b078;
+}
+.nav-top-2{
+    overflow: hidden;
+    margin: 0 7.4%;
+    border-bottom: solid #edf1f2;
+}
+.nav-top-2 li{
+    list-style: none;
+    border: none;
+    font-size: 1.4em;
+    margin: 1% 1%;
+    float: left;
+    background-color: #fafafa;
+
+}
+b:hover{
+    background-color: #29b078;
+}
+.nav-middle-2{
+    font-size: 1.6em;
+    margin: 0 7.4%;
+    display: block;
+    border-bottom: solid #d0d6d9;
+    padding: 1% 0;
+}
+.nav-middle-1 li{
+    list-style: none;
+    background-color: #fafafa;
+
+}
+.nav-middle-1-1{
+    display: block;
+    overflow: hidden;
+    margin: 0 7.4%;
+}
+a{
+    float: left;
+    width: 360px;
+    height: 414px;
+    overflow: hidden;
+    margin:2%  2% 0 0;
+    background-image: url("mean.png");
+    display: block;
+    background-size: 100%;
+}
+/*.m{*/
+    /*margin: 0 2%;*/
+/*}*/
+.nav-middle-1-2{
+    display: block;
+    overflow: hidden;
+    margin: 0 7.4%;
+}
+.nav-middle-1-3{
+    display: block;
+    overflow: hidden;
+    margin: 0 7.4%;
+}
+.nav-middle-1-4{
+    display: block;
+    overflow: hidden;
+    margin: 0 7.4%;
+}
+a:hover{
+    background-image: url("mean-1.png");
+}
+.footer{
+    font-size: 1.4em;
+}
+
